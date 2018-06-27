@@ -4,7 +4,7 @@
 
 <h3 align="center">Universidade Federal do Ceará</h3>
 
-<p align="center">Repositório dedicado para a elaboração de um laboratório sobre Injeção SQL para disciplina de Segurança da Informação.</p> 
+<p align="center">Repositório dedicado para a elaboração de um laboratório sobre Injeção SQL para disciplina de Segurança da Informação.</p>
 
 ---
 
@@ -34,7 +34,7 @@ Lei Nº 12.737, de 30 de novembro de 2012.
 Linguagem de Consulta Estruturada ou SQL, é uma linguagem de pesquisa declarativa padrão de gerenciamento de dados que interage com os principais bancos de dados baseados no modelo relacional.
 
 Os comandos SQL são agrupados em quatro categorias. Estes comandos são os principais usados no gerenciamento, manutenção e consulta de um banco de dados relacional.
-. 
+.
 
 - **DDL** - Linguagem de Definição de Dados.
     - *CREATE* - criar banco de dados, tabelas, colunas.
@@ -95,7 +95,7 @@ Uma exploração de injeção de SQL bem-sucedida pode:
 - Executar operações de administração no banco de dados.
     - Auditoria de desligamento ou o [DBMS](http://knoow.net/ciencinformtelec/informatica/database-management-systems-dbms/).
     - Truncar tabelas e logs.
-    - Adicionar usuários.
+    - Adicionar usuários. 
 - Recuperar o conteúdo de um determinado arquivo presente no sistema de arquivos do DBMS.
 - Emitir comandos para o sistema operacional.
 
@@ -116,7 +116,7 @@ SELECT * FROM Users WHERE Name ="" or ""="" AND Pass ="" or ""="";
 
 **Ferramentas que serão utilizadas**:
 
-[Vulnweb](http://testphp.vulnweb.com/) é uma aplicação web deliberadamente inseguro disponibilizado pela *Acunetix* que permite que desenvolvedores e estudantes interessados testem vulnerabilidades normalmente encontradas em aplicações baseados na linguagem de programação PHP que usam componentes de código comuns e populares. 
+[Vulnweb](http://testphp.vulnweb.com/) é uma aplicação web deliberadamente inseguro disponibilizado pela *Acunetix* que permite que desenvolvedores e estudantes interessados testem vulnerabilidades normalmente encontradas em aplicações baseados na linguagem de programação PHP que usam componentes de código comuns e populares.
 
 [SQLmap](http://sqlmap.org) é uma ferramenta de teste de penetração de software livre. Essa ferramenta permite automatizar o processo de detecção e exploração de falhas de injeção SQL. Ele vem com um poderoso mecanismo de detecção, diversos recursos para o testador de penetração e uma ampla variedade de opções como impressão digital do banco de dados, busca de dados do banco de dados, acesso ao sistema de arquivos subjacente e a execução de comandos no sistema operacional.
 

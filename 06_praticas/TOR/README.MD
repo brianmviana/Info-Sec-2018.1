@@ -8,4 +8,4 @@
  <img src="img/passo02.PNG" alt="TOR">
 
  ##### Passo 03
- <img src="img/passo03.PNG" alt="TOR">
+ <img src="img/passo03.PNG" alt="TOR ">

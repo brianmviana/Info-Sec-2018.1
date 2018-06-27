@@ -15,4 +15,4 @@ Tentei realizar a atividade, conseguir instalar a ferramenta, porém, encontre a
 <img src="img/passo04.PNG" alt="pfsense">
 
 ##### Passo 05
-<img src="img/passo05.PNG" alt="pfsense">
+<img src="img/passo05.PNG" alt=" pfsense">
